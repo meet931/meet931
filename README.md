@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **miteshchaudhari931@gmail.com**
 
-- 📄 Know about my experiences **[Here](https://drive.google.com/file/d/1P-TVAdUYogxgHxrkbbFjFJeQmRQax_09/view?usp=drive_link)**
+- 📄 Know about my experiences **[Here](https://drive.google.com/file/d/1P-TVAdUYogxgHxrkbbFjFJeQmRQax_09/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
