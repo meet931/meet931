@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitesh Chaudhari.</h1>
-<h3 align="center">A passionate Full Stack Developer from India. I am intern in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@GrowWithMeet</h3>
+<h3 align="center">A passionate Software Developer from India and in my free time I make YouTube videos at https://www.youtube.com/@GrowWithMeet</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet931&label=Profile%20views&color=0e75b6&style=flat" alt="meet931" /> </p>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **miteshchaudhari931@gmail.com**
 
-- 📄 Know about my experiences **[Here](https://drive.google.com/file/d/1-8ADy0JrO4Pj3XksvFuItOoYqHdt8Vnv/view?usp=drive_link)**
+- 📄 Know about my experiences **[Here](https://drive.google.com/file/d/1P-TVAdUYogxgHxrkbbFjFJeQmRQax_09/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
